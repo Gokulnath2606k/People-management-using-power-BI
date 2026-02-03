@@ -3,7 +3,7 @@
 An interactive People Management dashboard built using Power BI to analyze workforce data such as employee demographics, performance, salary distribution, hiring trends, and attrition insights.
 
 🔗 **Live Power BI Dashboard:**  
-https://app.powerbi.com/view?r=YOUR_DASHBOARD_LINK_HERE
+https://app.powerbi.com/groups/me/reports/a6d56d0b-2774-4ce6-a535-2edbf7dfb488/03e7e4c952dd583ba231?experience=power-bi
 
 ---
 
