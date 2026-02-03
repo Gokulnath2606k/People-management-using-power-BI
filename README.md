@@ -11,7 +11,10 @@ https://app.powerbi.com/groups/me/reports/a6d56d0b-2774-4ce6-a535-2edbf7dfb488/0
 This project focuses on analyzing employee data to help HR teams make data-driven decisions. The dashboard provides clear insights into workforce composition, performance ratings, and departmental distribution.
 
 ---
+## 🎯 Objective
+To create a visually appealing and easy-to-understand HR analytics dashboard that helps organizations track workforce metrics and improve people management strategies.
 
+---
 ## 🛠 Tools & Technologies
 - Power BI
 - Microsoft Excel / CSV
@@ -39,11 +42,6 @@ The dataset contains employee-level information including:
 - Performance Rating  
 - Hiring Date  
 - Termination Date  
-
----
-
-## 🎯 Objective
-To create a visually appealing and easy-to-understand HR analytics dashboard that helps organizations track workforce metrics and improve people management strategies.
 
 ---
 
