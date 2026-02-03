@@ -47,9 +47,5 @@ To create a visually appealing and easy-to-understand HR analytics dashboard tha
 
 ---
 
-## 👤 Author
-**Gokulnath K**  
-Aspiring Data Analyst | Power BI | Python | SQL  
 
-📎 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE  
-📎 GitHub: https://github.com/YOUR_USERNAME
+
